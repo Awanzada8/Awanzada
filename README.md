@@ -1,8 +1,8 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> Bilal Awanzada Md </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
-<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+<h3 align="center"> <a href="https://github.com/Awanzada8/AwanzadaMedia">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
 
 <h4 align="center"> Fixed Heroku Ban Problem ✔️</h4> 
 
